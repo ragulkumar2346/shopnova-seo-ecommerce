@@ -3,7 +3,9 @@ ShopNova – SEO-Optimized E-commerce Showcase
 ShopNova is a high-performance, accessible, and SEO-optimized e-commerce landing page template. This project serves as a comprehensive reference for implementing modern web standards, semantic HTML5, and various search engine optimization strategies.
 
 🚀 Key Features
+
 🔍 Advanced SEO Implementation
+
 Primary Meta Tags: Optimized <title> and <description> tags designed for ideal character lengths.
 
 Social Metadata: Full support for Open Graph (Facebook/LinkedIn) and Twitter Cards for rich social sharing previews.
